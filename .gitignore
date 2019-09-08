@@ -1,2 +1,10 @@
 
 .DS_Store
+
+WebServer-ASG/stack/.terraform/
+
+WebServer-ASG/remote-state-config/.terraform/
+
+*.tfstate
+
+*.backup
